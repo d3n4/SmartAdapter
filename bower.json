@@ -1,0 +1,20 @@
+{
+  "name": "smartadapter",
+  "description": "",
+  "main": "app/main.js",
+  "authors": [
+    "Mechislav Lipskiy <id110099122@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ]
+}
